@@ -1,0 +1,136 @@
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\appsettings.Development.json
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\appsettings.json
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\MVC4.staticwebassets.runtime.json
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\MVC4.exe
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\MVC4.deps.json
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\MVC4.runtimeconfig.json
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\MVC4.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\MVC4.pdb
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Humanizer.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\System.Drawing.Common.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\System.Runtime.Caching.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\System.Security.Permissions.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\System.Windows.Extensions.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\MVC4.csproj.AssemblyReference.cache
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\MVC4.GeneratedMSBuildEditorConfig.editorconfig
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\MVC4.AssemblyInfoInputs.cache
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\MVC4.AssemblyInfo.cs
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\MVC4.csproj.CoreCompileInputs.cache
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\MVC4.MvcApplicationPartsAssemblyInfo.cache
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\MVC4.RazorAssemblyInfo.cache
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\MVC4.RazorAssemblyInfo.cs
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\staticwebassets.build.json
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\staticwebassets.development.json
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\staticwebassets\msbuild.MVC4.Microsoft.AspNetCore.StaticWebAssets.props
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC4.props
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC4.props
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC4.props
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\staticwebassets.pack.json
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\scopedcss\bundle\MVC4.styles.css
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\scopedcss\projectbundle\MVC4.bundle.scp.css
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\MVC4.csproj.CopyComplete
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\MVC4.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\refint\MVC4.dll
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\MVC4.pdb
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\MVC4.genruntimeconfig.cache
+S:\FULearning\Summer2024\PRN231\MVC4\MVC4\obj\Debug\net6.0\ref\MVC4.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\appsettings.json
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\MVC4.staticwebassets.runtime.json
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\MVC4.exe
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\MVC4.deps.json
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\MVC4.runtimeconfig.json
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\MVC4.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\MVC4.pdb
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Humanizer.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\MVC4.csproj.AssemblyReference.cache
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\MVC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\MVC4.AssemblyInfoInputs.cache
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\MVC4.AssemblyInfo.cs
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\MVC4.csproj.CoreCompileInputs.cache
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\MVC4.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\MVC4.RazorAssemblyInfo.cache
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\MVC4.RazorAssemblyInfo.cs
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\staticwebassets\msbuild.MVC4.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\staticwebassets\msbuild.build.MVC4.props
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MVC4.props
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MVC4.props
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\scopedcss\bundle\MVC4.styles.css
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\scopedcss\projectbundle\MVC4.bundle.scp.css
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\MVC4.csproj.Up2Date
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\MVC4.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\refint\MVC4.dll
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\MVC4.pdb
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\MVC4.genruntimeconfig.cache
+C:\Users\vieta\OneDrive\Máy tính\su24\PRN231\project\MVC4\MVC4\obj\Debug\net6.0\ref\MVC4.dll

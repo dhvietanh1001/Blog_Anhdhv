@@ -1,0 +1,168 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #e4e5e6;
+    }
+
+    .sidebar {
+        width: 250px;
+        background-color: #333;
+        color: #fff;
+        padding: 1rem;
+        height: 100vh;
+        position: fixed;
+        background-color: #f2f2f2;
+    }
+
+        .sidebar a {
+            color: #000000;
+            display: block;
+            margin: 1rem 0;
+            text-decoration: none;
+        }
+
+    .containersang {
+        margin-left: 224px;
+        margin-top: 5px;
+        padding: 2rem;
+        padding-top: 0px;
+        width: 95%;
+    }
+
+    .search-bar {
+        margin-bottom: 1rem;
+        margin-bottom: 20px;
+        background-color: whitesmoke;
+        padding-bottom: 10px;
+        border-radius: 3px;
+    }
+
+        .search-bar input[type="text"] {
+            padding: 0.5rem;
+            width: 70%;
+            margin-top: 20px;
+        }
+
+        .search-bar button {
+            padding: 0.5rem;
+            border: 1px, solid, rgb(30, 148, 30);
+            color: rgb(30, 148, 30);
+            border-radius: 5px;
+        }
+
+            .search-bar button:hover {
+                padding: 0.5rem;
+                border: 1px, solid, rgb(30, 148, 30);
+                color: rgb(39, 74, 39);
+                border-radius: 5px;
+            }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 1rem;
+    }
+
+    table,
+    th,
+    td {
+        border: 1px solid #ddd;
+    }
+
+    th,
+    td {
+        padding: 1rem;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    .actions button {
+        margin-right: 0.5rem;
+    }
+
+    .form-group {
+        margin-bottom: 15px;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+</style>
+
+<div class="sidebar">
+    <a href="/Blog">List</a>
+    <a href="/Blog/Create">New</a>
+    <a href="#">Search</a>
+</div>
+<div class="containersang">
+    <div class="search-bar">
+        <form method="post" action="CreateBlog" enctype="multipart/form-data">
+            <div style="background-color: #c1c3c5;padding-left: 5px; padding-top: 5px;padding-bottom:5px ; border-top-left-radius:3px ; border-top-right-radius:3px ;">
+                <h4 style="margin: 0px;">Edit Blogs</h4>
+            </div>
+            <div class="form-group">
+                <label for="title">Tiêu đề:</label><br>
+                <input value="" style="height: 30px; border-radius: 5px; width: 1150px;" type="text" id="title" name="title">
+            </div>
+            <div class="form-group">
+                <label for="short-description">Mô tả ngắn:</label><br />
+                <textarea style="border-radius: 5px; width: 1150px;" id="short-description" name="shortDescription" rows="3"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="content">Chi tiết:</label><br />
+                <textarea style="height: 30px; border-radius: 5px; width: 1150px;" id="content" name="content" rows="10"></textarea>
+            </div>
+            <div class="form-group">
+                <label for="image">Chọn ảnh:</label><br />
+                <input type="file" id="image" name="image" accept="image/png, image/jpeg">
+            </div>
+            <div class="form-group">
+                <label for="tags">Vị trí:</label><br />
+                <input type="checkbox" value="Viet nam" name="location" /> Việt nam
+                <input type="checkbox" value="Chau A" name="location" /> Châu Á
+                <input type="checkbox" value="Chau Au" name="location" /> Châu Âu
+                <input type="checkbox" value="Chau My" name="location" /> Châu Mỹ
+            </div>
+            <div class="form-group">
+                <label for="public">Public</label><br />
+                <input type="radio" checked name="publicStatus" value="true" /> <span>Yes</span>
+                <input type="radio" name="publicStatus" value="false" /> <span>No</span>
+            </div>
+            <div style="display:flex">
+                <div class="form-group">
+                    <label for="date-public">Loại</label><br />
+                    <select name="categoryId" style="width:550px; height: 30px;border-radius: 5px;">
+                        <option selected value="1">Kinh Doanh</option>
+                        <option selected value="1">Thế giới</option>
+                        <option selected value="1">Thời sự</option>
+                        <option selected value="1">Giải trí</option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <label for="date-public">Date Public</label><br />
+                    <input value="" style="width:550px; height: 30px;border-radius: 5px;" type="date" id="date-public" name="datepublic">
+                </div>
+            </div>
+
+            <button type="submit">Submit</button>
+            <button type="reset">Clear</button>
+        </form>
+    </div>
+</div>
+
+<script>
+    function Search() {
+        var sang = document.getElementById("sang").value;
+        if (sang.length > 0) {
+            window.location.href = "/Blog?tin=" + sang;
+        }
+    }
+</script>

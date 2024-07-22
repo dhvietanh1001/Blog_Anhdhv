@@ -1,0 +1,172 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background-color: #e4e5e6;
+    }
+
+    .sidebar {
+        width: 250px;
+        background-color: #333;
+        color: #fff;
+        padding: 1rem;
+        height: 100vh;
+        position: fixed;
+        background-color: #f2f2f2;
+    }
+
+        .sidebar a {
+            color: #000000;
+            display: block;
+            margin: 1rem 0;
+            text-decoration: none;
+        }
+
+    .containersang {
+        margin-left: 224px;
+        margin-top: 5px;
+        padding: 2rem;
+        padding-top: 0px;
+        width: 95%;
+    }
+
+    .search-bar {
+        margin-bottom: 1rem;
+        margin-bottom: 20px;
+        background-color: whitesmoke;
+        padding-bottom: 10px;
+        border-radius: 3px;
+    }
+
+        .search-bar input[type="text"] {
+            padding: 0.5rem;
+            width: 70%;
+            margin-top: 20px;
+        }
+
+        .search-bar button {
+            padding: 0.5rem;
+            border: 1px, solid, rgb(30, 148, 30);
+            color: rgb(30, 148, 30);
+            border-radius: 5px;
+        }
+
+            .search-bar button:hover {
+                padding: 0.5rem;
+                border: 1px, solid, rgb(30, 148, 30);
+                color: rgb(39, 74, 39);
+                border-radius: 5px;
+            }
+
+    table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 1rem;
+    }
+
+    table,
+    th,
+    td {
+        border: 1px solid #ddd;
+    }
+
+    th,
+    td {
+        padding: 1rem;
+        text-align: left;
+    }
+
+    th {
+        background-color: #f2f2f2;
+    }
+
+    .actions button {
+        margin-right: 0.5rem;
+    }
+</style>
+
+<div class="sidebar">
+    <a href="/Blog">List</a>
+    <a href="/Blog/Create">New</a>
+    <a href="#">Search</a>
+</div>
+@{
+    var tin = ViewBag.tin as string;
+}
+<div class="containersang">
+    <div class="search-bar">
+        <div style="background-color: #c1c3c5;padding-left: 5px; padding-top: 5px;padding-bottom:5px ; border-top-left-radius:3px ; border-top-right-radius:3px ;">
+            <h4 style="margin: 0px;">Search Blogs</h4>
+        </div>
+        <span style="margin-right: 50px; margin-left: 10px;">Title:</span><input value="@tin" id="sang" type="text" placeholder="Search Blogs">
+        <div style="text-align: center; margin-top: 10px; margin-bottom: 10px;">
+            <button onclick="Search()" style="margin: auto;">
+                Search
+            </button>
+        </div>
+    </div>
+    <div style="background-color: #f2f2f2; border-radius: 3px;">
+        <h2 style="margin: 10px;">List Blog</h2>
+        <table style="font-size: 10px;">
+            <tr>
+                <th>ID</th>
+                <th>Tin</th>
+                <th>Loại</th>
+                <th>Trạng thái</th>
+                <th>Vị trí</th>
+                <th>Ngày Public</th>
+                <th>Edit</th>
+                <th>Delete</th>
+            </tr>
+            @{
+                var list = ViewBag.BlogList as List<Blog>;
+            }
+            @foreach (var b in list)
+            {
+                <tr>
+                    <td>@b.BlogId</td>
+                    <td>@b.Title</td>
+                    <td>@b.Category.CategoryName</td>
+                    @if (b.Status.Value)
+                    {
+                        <td>Yes</td>
+                    }
+                    else
+                    {
+                        <td>No</td>
+                    }
+
+                    <td>@b.Location</td>
+                    <td>@b.PublicDate?.ToString("dd-MM-yyyy")</td>
+                    <td><button onclick="edit(@b.BlogId)" style="border: 1px, solid, rgb(150, 150, 255); color: rgb(150, 150, 255); border-radius: 5px;">Edit</button></td>
+                    <td><button onclick="deleteBlog(@b.BlogId)" style="border: 1px, solid, rgb(255, 76, 76); color: rgb(255, 76, 76); border-radius: 5px;">Delete</button></td>
+                </tr>
+            }
+            <!-- Add more rows as needed -->
+        </table>
+    </div>
+</div>
+
+<script>
+    function Search() {
+        var sang = document.getElementById("sang").value;
+        if (sang.length > 0) {
+            window.location.href = "/Blog?tin=" + sang;
+        }
+    }
+
+    function edit(id) {
+        window.location.href = "/Blog/Detail?id=" + id;
+    }
+
+    function deleteBlog(id) {
+    console.log(id);
+        window.location.href = "/Blog/Delete?id=" + id;
+    }
+</script>
